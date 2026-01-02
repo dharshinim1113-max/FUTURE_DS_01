@@ -11,9 +11,8 @@ create an interactive Power BI dashboard to visualize key insights.
 - Power BI
 
 ## Files Included
-- TASK 1-FUTURE INTERNS.pbix (Power BI dashboard file)
-- SALES DASHBOARD-TASK 1.png (Dashboard screenshot)
-
+- TASK 1-FUTURE INTERNS.pbix
+- 
 ## Key Highlights
 - Created an interactive sales dashboard
 - Used charts and visuals for better insights
